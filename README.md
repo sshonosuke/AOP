@@ -6,8 +6,8 @@ Sugasawa, S. and Mochihashi (2025). On Prior Distributions for Orthogonal Functi
 
 The repository includes the following 3 files.
 
-`Demo.R`: Script for example using simulated data 
-`FPCA-AOP`: Script implementing Bayesian functional principal component analysis with AOP
-`FPCA-NO`: Script implementing Bayesian functional principal component analysis without orthogonal constraint
+- `Demo.R`: Script for example using simulated data 
+- `FPCA-AOP`: Script implementing Bayesian functional principal component analysis with AOP
+- `FPCA-NO`: Script implementing Bayesian functional principal component analysis without orthogonal constraint
 
 
