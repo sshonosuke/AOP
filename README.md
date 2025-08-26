@@ -2,7 +2,7 @@
 
 This repository provides R code implementing adaptive orthogonal prior for orthogonal function sequences, implemented in Bayesian functional principal component analysis, as proposed by the following paper.
 
-Sugasawa, S. and Mochihashi (2025). On Prior Distributions for Orthogonal Function Sequences. arXiv:xxxx.xxxxx 
+Sugasawa, S. and Mochihashi (2025). On Prior Distributions for Orthogonal Function Sequences. [arXiv:2508.15552](https://arxiv.org/abs/2508.15552)
 
 The repository includes the following 3 files.
 
